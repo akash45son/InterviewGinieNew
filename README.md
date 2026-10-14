@@ -1,5 +1,5 @@
-This is my InterviewGinie Project.
-# YT-GenAI: AI-Powered Interview Strategy Generator
+
+#InterviewGinie: AI-Powered Interview Strategy Generator
 
 An intelligent platform that uses Google's Generative AI to create personalized interview preparation strategies by analyzing job descriptions and candidate profiles.
 
